@@ -1,0 +1,12 @@
+header{
+    height: 65px;
+    background-color: darkblue;
+    width: 100%;
+    color: darkgoldenrod;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    font-style: italic;
+}

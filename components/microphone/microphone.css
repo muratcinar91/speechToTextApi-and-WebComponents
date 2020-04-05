@@ -1,0 +1,23 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Exo+2:400,700&display=swap");
+
+.speech_container{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #333; 
+}
+
+i{
+    cursor: pointer;
+}
+.speech{
+    margin-top: 10px;
+}
+
+.isListening{
+    color: darkred;
+    transition: all 0.5s;
+}
